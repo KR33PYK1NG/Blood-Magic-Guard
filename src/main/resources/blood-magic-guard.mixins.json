@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "blood-magic-guard.refmap.json",
+    "package": "rmc.mixins.blood_magic_guard.inject",
+    "mixins": [
+        "TileMasterRitualStoneMixin"
+    ]
+}
